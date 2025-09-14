@@ -1,7 +1,6 @@
-Task 4 – Basic Port Scanner
+Basic Port Scanner
 
 This task involves creating a simple **Port Scanner** using Python. The program scans a target IP address or domain for open ports in a specified range.
-
 Description:
 A **port scanner** is a tool that checks which ports on a target system are open or accessible. It can be used by system administrators for security testing and network diagnostics.
 
